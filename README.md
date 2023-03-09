@@ -1,8 +1,8 @@
 Project Title: Horiseon: SEO Simplified.
 
-Description: Basic website which main focus is to display revelant information about SEO (Search Engine Optimization). It was made using HTML and CSS with accesibility in mind, as well as optimization in mind. 
+Description: Basic website which main focus is to display revelant information about SEO (Search Engine Optimization). It was made using HTML and CSS with accesibility in mind, as well as optimization.
 
-How to Use: There is no installation required. You can access the project using the provided link, or you can copy this repository to better understand the development of the website.\
+How to Use: There is no installation required. You can access the project using the provided link, or you can copy this repository to better understand the development of the website.
 
 -https://piersalloum.github.io/Horiseon-SEO-Simplified/
 
