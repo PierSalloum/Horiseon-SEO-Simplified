@@ -13,7 +13,9 @@ References:
 
 Screenshot of the website:
 
-![alt text](./Screenshot_1.png)
+
+![alt text](./Screenshot1.png)
+
 
 License:
 
